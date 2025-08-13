@@ -14,9 +14,9 @@ step-by-step procedure to set up Android Studio on your computer (Windows/macOS/
 
 - Windows: 64-bit OS (Windows 10/11), 8 GB RAM (16 GB recommended), 4 GB disk space.
 
--**macOS**: macOS 10.14 (Mojave) or later, 8 GB RAM (16 GB recommended).
+- **macOS**: macOS 10.14 (Mojave) or later, 8 GB RAM (16 GB recommended).
 
--**Linux**: 64-bit distribution, GNOME/KDE desktop, 8 GB RAM, 4 GB disk space.
+- **Linux**: 64-bit distribution, GNOME/KDE desktop, 8 GB RAM, 4 GB disk space.
 
 # Step 2: Download Android Studio
 
@@ -30,7 +30,7 @@ step-by-step procedure to set up Android Studio on your computer (Windows/macOS/
 
 - Run the downloaded .exe file.
 
-= Follow the setup wizard (keep default settings unless you know what you're changing).
+- Follow the setup wizard (keep default settings unless you know what you're changing).
 
 - Check "Android Virtual Device" (AVD) for emulator support.
 
